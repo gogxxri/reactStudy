@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header/Header';
 import CoreConcept from './components/CoreConcept';
+import TabButton from './components/TabButton';
 import { CORE_CONCEPTS } from './data';
 
 function App() {
@@ -15,6 +16,12 @@ function App() {
               <CoreConcept {...CORE_CONCEPTS[i]} key={i} />
             ))}
           </ul>
+        </section>
+        <section id="examples">
+          <h2>EXAMPLES</h2>
+          <menu>
+            <TabButton>Content</TabButton>
+          </menu>
         </section>
       </main>
     </div>
