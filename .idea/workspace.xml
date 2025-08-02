@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="592e2a36-154b-42c3-bf66-13bc2d779d71" name="변경" comment="폴더 생성 및 이동">
+    <list default="true" id="592e2a36-154b-42c3-bf66-13bc2d779d71" name="변경" comment="init second project">
+      <change afterPath="$PROJECT_DIR$/practiceInvestment/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practiceInvestment/src/components/UserInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceInvestment/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/practiceInvestment/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceInvestment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practiceInvestment/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceInvestment/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practiceInvestment/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +45,17 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "js.linters.configure.manually.selectedeslint": "true",
     "last_opened_file_path": "C:/Users/HP/OneDrive/바탕 화면/front/reactstudy/practiceInvestment",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.eslint": "C:\\Users\\HP\\OneDrive\\바탕 화면\\front\\reactstudy\\practiceInvestment\\node_modules\\eslint",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\HP\\OneDrive\\바탕 화면\\front\\reactstudy\\reactBasic\\node_modules\\prettier",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\HP\\OneDrive\\바탕 화면\\front\\reactstudy\\practiceInvestment\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754119418887</updated>
-      <workItem from="1754119421244" duration="1069000" />
+      <workItem from="1754119421244" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="폴더 생성 및 이동">
       <option name="closed" value="true" />
@@ -80,14 +90,46 @@
       <option name="project" value="LOCAL" />
       <updated>1754119462452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init second project">
+      <option name="closed" value="true" />
+      <created>1754120547674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754120547674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="폴더 생성 및 이동" />
-    <option name="LAST_COMMIT_MESSAGE" value="폴더 생성 및 이동" />
+    <MESSAGE value="init second project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init second project" />
   </component>
 </project>
