@@ -1,4 +1,6 @@
 import babelParser from '@babel/eslint-parser';
+import babelPresetReact from '@babel/preset-react';
+import reactPlugin from 'eslint-plugin-react';
 
 export default [
   {
@@ -8,18 +10,16 @@ export default [
       parserOptions: {
         requireConfigFile: false,
         babelOptions: {
-          presets: ['@babel/preset-react'],
+          presets: [babelPresetReact],
         },
       },
       ecmaVersion: 2022,
       sourceType: 'module',
     },
     plugins: {
-      react: (await import('eslint-plugin-react')).default,
+      react: reactPlugin,
     },
-    rules: {
-      // ...
-    },
+    rules: {},
     settings: {
       react: {
         version: 'detect',
