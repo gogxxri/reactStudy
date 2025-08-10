@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="592e2a36-154b-42c3-bf66-13bc2d779d71" name="변경" comment="styled-compponent : 가상선택자, 중첩규칙 등">
-      <change beforePath="$PROJECT_DIR$/styling/src/components/AuthInputs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/styling/src/components/AuthInputs.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="592e2a36-154b-42c3-bf66-13bc2d779d71" name="변경" comment="재사용 가능한 컴포넌트 생성 및 컴포넌트 조합" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1754119421244" duration="2494000" />
       <workItem from="1754794566476" duration="2305000" />
       <workItem from="1754797109162" duration="3553000" />
-      <workItem from="1754802144072" duration="5383000" />
+      <workItem from="1754802144072" duration="5694000" />
     </task>
     <task id="LOCAL-00001" summary="폴더 생성 및 이동">
       <option name="closed" value="true" />
@@ -149,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754807627532</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="재사용 가능한 컴포넌트 생성 및 컴포넌트 조합">
+      <option name="closed" value="true" />
+      <created>1754808494711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754808494711</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +193,8 @@
     <MESSAGE value="스타일 프로젝트 INIT" />
     <MESSAGE value="styled-compponent로 동적 스타일링" />
     <MESSAGE value="styled-compponent : 가상선택자, 중첩규칙 등" />
-    <option name="LAST_COMMIT_MESSAGE" value="styled-compponent : 가상선택자, 중첩규칙 등" />
+    <MESSAGE value="재사용 가능한 컴포넌트 생성 및 컴포넌트 조합" />
+    <option name="LAST_COMMIT_MESSAGE" value="재사용 가능한 컴포넌트 생성 및 컴포넌트 조합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
